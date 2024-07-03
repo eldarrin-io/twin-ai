@@ -1,0 +1,1 @@
+We have recently been experiencing issues with chef on site trying to decipher what each pipeline and template is doing. We have consulted internally but cannot seem to find any information that can help. Do we have any resource that can assist?
